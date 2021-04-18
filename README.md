@@ -1,2 +1,2 @@
-# Agusma-resolusi
-Repository E-ecommerce
+# Agusma-Ecommerce
+Repository E-Commerce
